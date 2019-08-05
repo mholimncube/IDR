@@ -3,52 +3,62 @@
     {
       "id": 1,
       "name": "A",
-      "delay": 0.5
+      "delay": 0.5,
+      "type": "T1"
     },
     {
       "id": 2,
       "name": "B",
-      "delay": 0.5
+      "delay": 0.5,
+      "type": "T1"
     },
     {
       "id": 3,
       "name": "C",
-      "delay": 0.5
+      "delay": 0.5,
+      "type": "T1"
     },
     {
       "id": 4,
       "name": "D",
-      "delay": 0.5
+      "delay": 0.5,
+      "type": "T1"
     },
     {
       "id": 5,
       "name": "E",
-      "delay": 0.5
+      "delay": 0.5,
+      "type": "T1"
     },
     {
       "id": 6,
       "name": "F",
-      "delay": 0.5
+      "delay": 0.5,
+      "type": "T2"
     },
     {
       "id": 7,
       "name": "G",
-      "delay": 0.5
+      "delay": 0.5,
+      "type": "T2"
     },
     {
       "id": 8,
       "name": "H",
-      "delay": 0.5
+      "delay": 0.5,
+      "type": "T2"
     },
     {
       "id": 9,
       "name": "I",
-      "delay": 0.5
+      "delay": 0.5,
+      "type": "T2"
     },
     {
       "id": 10,
       "name": "J",
-      "delay": 0.5
+      "delay": 0.5,
+      "type": "T2"
     }
   ],
   "links": [
