@@ -2,100 +2,112 @@
   "nodes": [
     {
       "id": 1,
-      "name": "A"
+      "name": "A",
+      "delay": 0.5
     },
     {
       "id": 2,
-      "name": "B"
+      "name": "B",
+      "delay": 0.5
     },
     {
       "id": 3,
-      "name": "C"
+      "name": "C",
+      "delay": 0.5
     },
     {
       "id": 4,
-      "name": "D"
+      "name": "D",
+      "delay": 0.5
     },
     {
       "id": 5,
-      "name": "E"
+      "name": "E",
+      "delay": 0.5
     },
     {
       "id": 6,
-      "name": "F"
+      "name": "F",
+      "delay": 0.5
     },
     {
       "id": 7,
-      "name": "G"
+      "name": "G",
+      "delay": 0.5
     },
     {
       "id": 8,
-      "name": "H"
+      "name": "H",
+      "delay": 0.5
     },
     {
       "id": 9,
-      "name": "I"
+      "name": "I",
+      "delay": 0.5
     },
     {
       "id": 10,
-      "name": "J"
-    },
-    {
-      "id": 11,
-      "name":"K"
-    },
-    {
-      "id": 12,
-      "name":"L"
+      "name": "J",
+      "delay": 0.5
     }
   ],
   "links": [
 
     {
       "source": 1,
-      "target": 2
+      "target": 2,
+      "cost": 50
     },
     {
       "source": 1,
-      "target": 5
+      "target": 5,
+      "cost":50
     },
     {
       "source": 1,
-      "target": 6
+      "target": 6,
+      "cost":10
     },
 
     {
       "source": 2,
-      "target": 3
+      "target": 3,
+      "cost":50
     },
             {
       "source": 2,
-      "target": 7
+      "target": 7,
+      "cost":10
     }
     ,
 
     {
       "source": 3,
-      "target": 4
+      "target": 4,
+      "cost":50
     },
      {
       "source": 8,
-      "target": 3
+      "target": 3,
+      "cost":10
     }
     ,
     {
       "source": 4,
-      "target": 5
+      "target": 5,
+      "cost":50
     }
     ,
 
     {
       "source": 4,
-      "target": 9
+      "target": 9,
+      "cost":10
     },
     {
       "source": 5,
-      "target": 10
+      "target": 10,
+      "cost":10
     }
   ]
 }
