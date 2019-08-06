@@ -1,9 +1,9 @@
 source;target ;value
-A;B;5
-A;C;5
-A;D;5
-A;E;10
-E;F;5
-E;G;5
-B;H;5
-B;C;2
+A;B;0.5
+A;C;0.5
+A;D;0.5
+A;E;0.10
+E;F;0.5
+E;G;0.5
+B;H;0.5
+B;C;0.2
