@@ -1,0 +1,82 @@
+.navbar-inverse{
+  background-image: linear-gradient(to bottom,#777, blue 100%) !important;
+}
+.col-sm-7{
+  padding:5px !important;
+  border-style:groove !important; 
+  border-color: green !important;
+  background-image: url("africa2.png") !important;
+}
+
+.col-sm-5{
+  padding: 5px;
+}
+
+path.link {
+  fill: none;
+  stroke: #666;
+  stroke-width: 1.5px;
+}
+
+marker#normal {
+  fill: blue;
+}
+
+path.link.normal {
+  stroke: blue;
+}
+
+path.link.down {
+  stroke-dasharray: 0, 2 1;
+  stroke: red
+}
+
+path.link.overload {
+  stroke: orange;
+  stroke-width: 3px;
+}
+
+circle.node.IX {
+  fill: #ccc;
+  stroke: #333;
+  stroke-width: 1.5px;
+}
+
+circle.node.T1{
+  fill: blue
+}
+
+circle.node.T2{
+  fill: green
+}
+circle.node.T3{
+  fill:orange;
+}
+
+text {
+  font: 10px sans-serif;
+  pointer-events: none;
+}
+
+text.shadow {
+  stroke: #fff;
+  stroke-width: 3px;
+  stroke-opacity: .8;
+}
+
+rect {
+  fill: white;
+  stroke: #666;
+  stroke-width: 1.5px;
+}
+
+.footer {
+  border-style: groove;
+  border-style: darkblue;
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  /* Set the fixed height of the footer here */
+  height: 60px;
+  background-color:whitesmoke;
+}
