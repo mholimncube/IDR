@@ -14,3 +14,4 @@ Stage II: (insert)
 # Instructions for running and compling
 
 * Click on the link below and test the demo
+[link to DEMO!](https://mholimncube.github.io/IDR/)
